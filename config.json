@@ -1,0 +1,59 @@
+{
+    "token": "OTYyMTA2OTgxODk4OTI0MDMy.YlCt8w.4tU4GYwa_iJheof1Zqzw8K1uD50",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/962326891379961937/mUBclWLKg65kj4Xy9oXRWzch3h10LVjJRl9xoxZUZaRsarieq_E6yas0cW_krEyvU8EH": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=5&order=newest_first&status[]=2&brand_id[]=88",
+            "salon": "ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/962326939148881930/mFLJoH0fVZRESlNCol23jqlA2d4B420vym_IHNKxtRld94pq1hGtV03GR4fcRJObWcHy": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=5&order=newest_first&status[]=2&brand_id[]=36955",
+            "salon": "jack-jones"
+        },
+        "https://discord.com/api/webhooks/962327020069593148/q-MrYATIJYbJQnBGOHGBTQeKqTKngWQVGIu2nNzX4a3TVCP9wbggnKs2HluPakuXWqGi": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=5&order=newest_first&status[]=2&brand_id[]=304",
+            "salon": "lacoste"
+        },
+        "https://discord.com/api/webhooks/962327066932576286/ess4tfVqp0HYnb8ACPVwOLfbdE9rtf_bbCLoOEKA8TfT_1YF_GhlS9Ud7hl9G4o7pTbI": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=2050&order=newest_first",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/962327274437361666/WGGIMi8KzO6mwEMl9vdlgnLX9xMTFkWFUrVO_rocIM2X1XpIT-CK_8FEmKti3p7Dx3HL": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=94&brand_id[]=14&catalog[]=1206&order=newest_first",
+            "salon": "manteaux-et-vestes"
+        },
+        "https://discord.com/api/webhooks/962691640701640746/Ii-CD8VTheb8G4sZcvmmbMOXzuE1v6KglmS7szVaiOVPUjSuYmIUthmSCXBByX004PZS": {
+            "url": "https://www.vinted.fr/vetements?search_text=jean&search_id=5001950519&catalog[]=5",
+            "salon": "tt"
+        },
+        "https://discord.com/api/webhooks/962692176645611560/Lqxmt6ay2OCsRrtGo9DsjYpWqKvPDtvwasEVEBUC8lbV1e3RG4fWF2B_E6flEUIkXXig": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=34&order=relevance",
+            "salon": "jean"
+        },
+        "https://discord.com/api/webhooks/962815331175379066/6x1XqsHh8g__Bn3k9E2JwxQWU-wv1a4w47TCHZvqKPhL2GQb9e2XDsRr4GrKgRrH9mgU": {
+            "url": "https://www.vinted.fr/vetements?search_text=stone%20island&search_id=5006630733&catalog[]=5",
+            "salon": "stone-island"
+        },
+        "https://discord.com/api/webhooks/962815940096049202/PQSnf6hmw5FRjuRulQm0LU1rmWNChb7KQBwOp5wu6lQr7PlYDHfmByX-TvfiDn4Qp5Y2": {
+            "url": "https://www.vinted.fr/vetements?search_text=arcteryx&search_id=5006649439&catalog[]=2050",
+            "salon": "addidas"
+        },
+        "https://discord.com/api/webhooks/962832643911737355/8O-ma1ixYnIKid2ZYD8rVA_tkVr3uus2nLa6L5W1CuVzz-tk37szK0wF9c3AkmQO4CW3": {
+            "url": "https://www.vinted.fr/vetements?search_text=cararthh&search_id=5007198140&time=1649627236",
+            "salon": "sneaker"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
